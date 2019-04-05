@@ -77,8 +77,7 @@ public class GT4500 implements SpaceShip {
         break;
 
       case ALL:
-        firingSuccess = false;
-
+        firingSuccess = false
 		
         break;
     }
